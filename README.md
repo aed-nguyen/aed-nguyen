@@ -2,22 +2,18 @@
 
 I run operations and build automation for a busy clinic. When staff rely on a workflow every day and that workflow handles private information, security is part of the job.
 
-I started teaching myself cybersecurity in May 2026. My Hacker101 CTF dashboard now shows 31 points and 11 flags. I finished A Little Something to Get You Started and Micro-CMS v1, then found two of the three flags in Micro-CMS v2 and four of the seven in Postbook.
+I started teaching myself cybersecurity in May 2026.
 
-I also worked through PwnBox labs involving authentication proof, access control, injection, URL parsing differences, browser message handling, XML file access, and unsafe uploads. At my last checkpoint I had recovered 19 Easy flags.
+## Code
 
-Outside the labs, I apply what I learn to systems I'm responsible for. I've reviewed automation for authorization problems, race conditions, logging, privacy, and recovery after partial failures. When I fix something, I rerun the original failing case.
+### Security lab code
 
-## Repositories
+Selected lab tooling and security boundary examples, with tests.
 
-### Security boundary demos
+[View the code](https://github.com/aed-nguyen/security-boundary-demos)
 
-I built four small examples that put an unsafe shortcut beside a safer implementation. They cover URL validation, object authorization, authentication-proof binding, and file handling. The examples use invented data and include tests.
+## Notes
 
-[View the demos](https://github.com/aed-nguyen/security-boundary-demos)
-
-### Security notes
-
-The notes cover Hacker101 CTF, PwnBox, OverTheWire, an automation security review, vulnerability validation, and a Burp MCP setup.
+Notes from labs, security reviews, vulnerability validation, and tooling setup.
 
 [Read the notes](https://github.com/aed-nguyen/security-case-studies)
