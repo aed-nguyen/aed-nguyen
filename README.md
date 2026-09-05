@@ -4,6 +4,14 @@ I run operations and build automation for a busy clinic. When staff rely on a wo
 
 I started teaching myself cybersecurity in May 2026.
 
+## Systems
+
+### cross-system-patient-matching
+
+Matches records across two systems by name and date of birth. Gender is corrected only for an exact match.
+
+[View the project](https://github.com/aed-nguyen/cross-system-patient-matching)
+
 ## Code
 
 ### Security lab code
